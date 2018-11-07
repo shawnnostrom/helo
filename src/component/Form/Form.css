@@ -1,0 +1,9 @@
+.form-img {
+  border: solid black 1px;
+  width: 40%;
+  height: 300px;
+}
+.input-form {
+  width: 60%;
+  margin-bottom:10px;
+}

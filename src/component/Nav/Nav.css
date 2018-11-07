@@ -1,0 +1,18 @@
+.navBar {
+  display: flex;
+  flex-direction: column;
+  border: solid black 1px;
+  width: 7%;
+  height: 100vh;
+  background-image: 
+  linear-gradient(
+    to bottom,
+    #ff70a6,
+    #ff9770,
+    #ffd670,
+    #e9ff70
+  );
+  position: absolute;
+  top:0;
+  left:0;
+}

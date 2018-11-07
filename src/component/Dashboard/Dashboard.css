@@ -1,0 +1,13 @@
+.dashboard {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.display-box {
+  border: solid grey 1px;
+  width: 500px;
+  height: 50px;
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+}

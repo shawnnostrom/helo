@@ -1,0 +1,1 @@
+insert into post (title,url,content) values ($1,$2,$3)
